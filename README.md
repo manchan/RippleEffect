@@ -12,14 +12,14 @@
 
 
 You can use Material Design ([Google Material Design)](https://material.io/design/introduction/)) “ink ripple” interaction effect written in iOS swift.  
-
+Reffered from [MaterialKit](https://github.com/nghialv/MaterialKit). and minimum implement（MKButton, MKCollectionView）  
 Please feel free to make pull requests.
 
 ## Features
 
 - [x] Ripple effect with box size
 - [x] Ripple animation
-- [x] Highly customizable
+- [x] Highly customizable(mask, duration, scaleRatio, etc..)
 - [x] By supporting @IBInspectable, the class properties can be exposed in the Interface Builder, and you can edit these properties in realtime
 - [x] MKButton
 - [x] MKCollectionViewCell
