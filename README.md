@@ -9,6 +9,8 @@
 [![CocoaPods](https://img.shields.io/cocoapods/dt/RippleEffect.svg)](https://cocoapods.org/?q=RippleEffect)
 [![License](https://img.shields.io/cocoapods/l/RippleEffect.svg?style=flat)](http://cocoapods.org/pods/RippleEffect)
 
+![](./SampleImage/sample.gif)
+
 
 You can use Material Design ([Google Material Design)](https://material.io/design/introduction/)) “ink ripple” interaction effect written in iOS swift.
 Please feel free to make pull requests.
