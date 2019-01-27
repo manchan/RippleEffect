@@ -6,20 +6,20 @@
 )](https://developer.apple.com/swift)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-orange.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Version](https://img.shields.io/cocoapods/v/RippleEffect.svg?style=flat)](http://cocoapods.org/pods/RippleEffect)
-[![CocoaPods](https://img.shields.io/cocoapods/dt/RippleEffect.svg)](https://cocoapods.org/?q=RippleEffect)
 [![License](https://img.shields.io/cocoapods/l/RippleEffect.svg?style=flat)](http://cocoapods.org/pods/RippleEffect)
 
 ![](./SampleImage/sample.gif)
 
 
-You can use Material Design ([Google Material Design)](https://material.io/design/introduction/)) “ink ripple” interaction effect written in iOS swift.
+You can use Material Design ([Google Material Design)](https://material.io/design/introduction/)) “ink ripple” interaction effect written in iOS swift.  
+Reffered from [MaterialKit](https://github.com/nghialv/MaterialKit). and minimum implement（MKButton, MKCollectionView）  
 Please feel free to make pull requests.
 
 ## Features
 
 - [x] Ripple effect with box size
 - [x] Ripple animation
-- [x] Highly customizable
+- [x] Highly customizable(mask, duration, scaleRatio, etc..)
 - [x] By supporting @IBInspectable, the class properties can be exposed in the Interface Builder, and you can edit these properties in realtime
 - [x] MKButton
 - [x] MKCollectionViewCell
