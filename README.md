@@ -5,13 +5,14 @@
 [![Language](http://img.shields.io/badge/Language-Swift-pink.svg?style=flat
 )](https://developer.apple.com/swift)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-orange.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![Version](https://img.shields.io/cocoapods/v/RippleEffect.svg?style=flat)](http://cocoapods.org/pods/RippleEffect)  
+[![Version](https://img.shields.io/cocoapods/v/RippleEffect.svg?style=flat)](http://cocoapods.org/pods/RippleEffect)
 [![License](https://img.shields.io/cocoapods/l/RippleEffect.svg?style=flat)](http://cocoapods.org/pods/RippleEffect)
 
 ![](./SampleImage/sample.gif)
 
 
-You can use Material Design ([Google Material Design)](https://material.io/design/introduction/)) “ink ripple” interaction effect written in iOS swift.
+You can use Material Design ([Google Material Design)](https://material.io/design/introduction/)) “ink ripple” interaction effect written in iOS swift.  
+
 Please feel free to make pull requests.
 
 ## Features
