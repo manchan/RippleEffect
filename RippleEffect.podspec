@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RippleEffect"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "Material Design “ink ripple” interaction effect written in iOS swift."
   s.description  = <<-DESC
            - You can use Material Design “ink ripple” interaction effect written in iOS swift
